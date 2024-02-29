@@ -1,4 +1,5 @@
 import Hero from "./components/Hero";
+import ImageSlider from "./components/ImageSlider";
 import Navbar from "./components/Navbar";
 import Offer from "./components/Offer";
 import PlanTrip from "./components/PlanTrip";
@@ -11,6 +12,7 @@ const App = () => {
       <Offer />
       <PlanTrip />
       <Rooms />
+      <ImageSlider />
     </div>
   );
 };

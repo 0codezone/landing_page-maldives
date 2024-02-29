@@ -1,6 +1,6 @@
 const PlanTrip = () => {
   return (
-    <div className="max-w-[1100px] m-auto py-16 px-4 grid lg:grid-cols-2 gap-4">
+    <div className="max-w-[1100px] m-auto py-16 px-4 grid lg:grid-cols-2 gap-4 border-t-[1px]">
       {/* Left Side */}
       <div className="grid grid-cols-2 grid-rows-6 h-[80vh]">
         <img

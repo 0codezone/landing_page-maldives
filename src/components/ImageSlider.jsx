@@ -63,7 +63,7 @@ const ImageSlider = () => {
   };
   return (
     <section
-      className="max-w-[1100px] h-[580px] w-full m-auto py-16 px-4 relative group"
+      className="max-w-[1100px] h-[580px] w-full m-auto py-16 px-4 relative group border-t-[1px]"
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}

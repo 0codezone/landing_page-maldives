@@ -1,6 +1,6 @@
 const Rooms = () => {
   return (
-    <section className="max-w-[1100px] h-[500px] bg-blue-100 mx-auto my-20 p-16  lg:mb-[20%] md:mb-[35%] px-4 grid lg:grid-cols-3 gap-4">
+    <section className="max-w-[1100px] h-[500px] bg-blue-100 mx-auto my-20 p-16 lg:mb-[20%] md:mb-[35%] px-4 grid lg:grid-cols-3 gap-4 border-t-[1px]">
       <div className="lg:top-20 relative lg:col-span-1 col-span-2">
         <h2 className="text-2xl font-bold">Fine Interior Rooms</h2>
         <p className="pt-4">
